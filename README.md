@@ -1,4 +1,5 @@
 # Content-Based-Movie-Recommendation-System
+
 A Content-Based Movie Recommendation System is a type of recommendation system that suggests movies to users based on the content of the movies and the preferences of the users. Unlike collaborative filtering methods, which rely on user-item interactions and similarities between users or items, content-based recommendation systems focus on the attributes of the items themselves and the profiles of the users.
 
 Here's how a Content-Based Movie Recommendation System typically works:
@@ -33,4 +34,9 @@ Here's how a Content-Based Movie Recommendation System typically works:
 
 
 ## SCREENSHOTS:
+
+[](![Screenshot 2023-11-09 115950](https://github.com/sanjeeviss/Content-Based-Movie-Recommendation-System/assets/113248194/066104f7-2b39-46fd-8a28-f4850f2b4b40)
+![Screenshot 2023-11-09 120023](https://github.com/sanjeeviss/Content-Based-Movie-Recommendation-System/assets/113248194/117e0e7a-b589-4ea3-a7c6-17d1bc170930)
+![Screenshot 2023-11-09 120144](https://github.com/sanjeeviss/Content-Based-Movie-Recommendation-System/assets/113248194/26d8d401-6eb6-42e3-a28b-e15538942952))
+
 
