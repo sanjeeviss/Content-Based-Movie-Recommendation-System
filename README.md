@@ -4,21 +4,21 @@ A Content-Based Movie Recommendation System is a type of recommendation system t
 
 Here's how a Content-Based Movie Recommendation System typically works:
 
-### 1. **Data Collection:**
+###  **Data Collection:**
    - **Movie Data:** Gather information about movies, including attributes such as genre, director, actors, release year, plot summary, and user ratings.
    - **User Data:** Collect data on user preferences, such as movies they have liked, rated, or watched.
 
-### 2. **Feature Extraction:**
+###  **Feature Extraction:**
    - For movies, the system analyzes textual data like plot summaries and genre tags to extract features that describe the content of the movies. These features can be numerical or binary representations of genres, keywords, or other relevant characteristics.
    - For users, their preferences and history are transformed into a user profile, indicating their likes and dislikes based on the features of the movies they have interacted with.
 
-### 3. **Vectorization:**
+###  **Vectorization:**
    - Convert textual data (plot summaries, genre tags) into numerical vectors using techniques like TF-IDF (Term Frequency-Inverse Document Frequency) or word embeddings (Word2Vec, GloVe). This process helps in representing textual information in a format that machine learning algorithms can understand.
 
-### 4. **Similarity Calculation:**
+###  **Similarity Calculation:**
    - Calculate the similarity between movies and user profiles. Cosine similarity is commonly used to measure the similarity between two vectors. Movies that are more similar to a user's profile are considered potential recommendations.
 
-### 5. **Recommendation Generation:**
+###  **Recommendation Generation:**
    - Identify movies that are most similar to the user profile based on the calculated similarities. The top N similar movies can be recommended to the user.
 
 ### Advantages of Content-Based Movie Recommendation Systems:
